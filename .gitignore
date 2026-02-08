@@ -1,0 +1,4 @@
+node_modules/
+sprint-coach.db
+sprint-coach.db-wal
+sprint-coach.db-shm
